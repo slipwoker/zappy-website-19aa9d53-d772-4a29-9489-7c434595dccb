@@ -1,0 +1,45 @@
+# AlarmWatch Israel — Generative Engine Optimization Map
+
+> A real-time emergency alert tracking platform that visualizes active alerts on an interactive map interface. The system monitors and displays current alert locations across Israel, providing immediate situational awareness for users seeking real-time safety information.
+
+---
+
+## Pages
+
+### בית
+https://alarmwatch-israel-19aa9d53.zappy5.app
+מפת התרעות פיקוד העורף לייב עם מעקב אזעקות בזמן אמת. צפו בהתרעות צבע אדום על מפה אינטראקטיבית ותישארו מעודכנים בכל רגע. מידע חיוני להגנה עצמית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://alarmwatch-israel-19aa9d53.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://alarmwatch-israel-19aa9d53.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://alarmwatch-israel-19aa9d53.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About AlarmWatch Israel
+A real-time emergency alert tracking platform that visualizes active alerts on an interactive map interface. The system monitors and displays current alert locations across Israel, providing immediate situational awareness for users seeking real-time safety information.
+
+## Target Audience
+- צוותי חירום
+
+## Industry
+emergency services / public safety
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://alarmwatch-israel-19aa9d53.zappy5.app/sitemap.xml
+- **Robots.txt**: https://alarmwatch-israel-19aa9d53.zappy5.app/robots.txt

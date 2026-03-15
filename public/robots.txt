@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alarmwatch-israel-19aa9d53.zappy5.app/sitemap.xml
